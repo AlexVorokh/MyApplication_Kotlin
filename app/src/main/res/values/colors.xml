@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#0087ad</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ScreenBackground">#0088ae</color>
+    <color name="ScreenBackground2">#009717</color>
+    <color name="random_heading">#f2ffef</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
